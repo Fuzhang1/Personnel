@@ -1,0 +1,38 @@
+.ant-layout-header {
+    width: 100%;
+    height: fit-content;
+    padding: 0;
+}
+
+.site-page-header-ghost-wrapper {
+    background-color: #f5f5f5;
+}
+
+.ant-page-header-heading-title,
+.ant-page-header-heading-sub-title {
+    color: white;
+}
+
+.pagehead {
+    background-color: black;
+    color: white;
+}
+
+.menu {
+    height: 100%;
+    width: fit-content;
+}
+
+.information {
+    margin: 5px 15px;
+}
+
+#mainbox {
+    /* 100vh保证最小高度为整个屏幕 */
+    min-height: 100vh;
+}
+
+.username {
+    font-size: 15px;
+    font-weight: 600;
+}

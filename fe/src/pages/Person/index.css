@@ -1,0 +1,32 @@
+.box {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.infobox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 50%;
+    height: 100%;
+}
+
+.smallbox {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.des {
+    width: 80px;
+}
+
+.bread {
+    margin-top: 15px;
+}
